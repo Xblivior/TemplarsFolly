@@ -1,7 +1,7 @@
-+Temp/
-+Library/
-+Obj/
-+.vs
++ Temp/
++ Library/
++ obj/
++ .vs
 +*.unityproj
 +*.csproj
 +*.sln
